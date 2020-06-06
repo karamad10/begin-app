@@ -1,4 +1,3 @@
-<img src="https://static.begin.app/deno-hello-world/readme-banner.png" width="813">
 
 [![Begin build status](https://buildstatus.begin.app/jump-1pr/status.svg)](https://begin.com)
 
